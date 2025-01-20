@@ -5,6 +5,6 @@ Compétences                                   |   Afficionado
 Le python                                     |  FF
 Actuellement detenteur du brevet et du bac    |  Persona
 Le HTML                                       |  Lire 
-Lire et écrire                                | 
-A humilié une chambre d'internat de 6 sur ssbu|
-Détenteur d'un backlog de 26 jeux (1297h)     |
+Lire et écrire                                |  Roguelike
+A humilié une chambre d'internat de 6 sur ssbu|  Parcoursup
+Détenteur d'un backlog de 26 jeux (1297h)     |  Metroidvania
