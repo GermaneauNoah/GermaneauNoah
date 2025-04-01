@@ -7,6 +7,6 @@ Suite a mon collège et lycée j'ai aquis la pratique de plusieurs langues tels 
 
 Je suis intéressé par le développement d'application , mais aussi tout ce qui touche au fonctionnement des machines et a la construction d'objets
 
-INFJ 
+INFJ :)
 
 Vous pouvez me contacter via cette adresse mail noah.germaneau@etu.unilim.fr 
