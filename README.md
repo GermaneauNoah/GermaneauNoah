@@ -9,4 +9,6 @@ Je suis intéressé par le développement d'application , mais aussi tout ce qui
 
 INFJ :)
 
+J'aprécie beaucoup tetris (merci Alekseï Pajitnov)
+
 Vous pouvez me contacter via cette adresse mail noah.germaneau@etu.unilim.fr 
