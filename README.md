@@ -11,6 +11,6 @@ Je suis intéressé par le développement d'application , mais aussi tout ce qui
 INFJ :)
 
 J'aprécie beaucoup tetris (merci Alekseï Pajitnov) mais aussi des jeux comme Final fantasy, Persona, Shin megami tensei, Metroid et Ace Attorney  
-J'aprécie écouter de la musiques d'artistes tels que Justice, Avicii, Kavinsky, Queen,...
+J'aprécie écouter de la musiques nottament de Justice, Avicii, Kavinsky, Queen,...
 
 Vous pouvez me contacter via cette adresse mail noah.germaneau@etu.unilim.fr 
