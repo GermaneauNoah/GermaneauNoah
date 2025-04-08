@@ -1,7 +1,7 @@
 <h1 align = "center"> Germaneau Noah </h1>
 Bonjour vous,  
   
-J'ai fait mon lycée a Raoul Dautry avec en seconde option dnl et SICIT, puis en première maths informatique et science de l'ingénieur, puis en terminale maths informatique  
+J'ai fait mon lycée a Raoul Dautry avec en seconde option dnl et SICIT, puis un première avec spé maths informatique et science de l'ingénieur, puis en terminale spé maths informatique  
 Actuellement en BUT1 informaique a limoges je dispose d'un brevet et d'un bac nsi/maths.  
 Je maitrise des outils tels que python, HTML-CSS, Java, C.  
 Suite a mon collège et lycée j'ai aquis la pratique de plusieurs langues tels que le francais, l'anglais et l'espagnol.  
