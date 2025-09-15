@@ -1,16 +1,18 @@
 <h1 align = "center"> Germaneau Noah </h1>
-Bonjour vous,  
-  
-J'ai fait mon lycée a Raoul Dautry avec en seconde option dnl et SICIT, puis un première avec spé maths informatique et science de l'ingénieur, puis en terminale spé maths informatique  
+Bonjour vous,
+
+
+
+https://camo.githubusercontent.com/9d66a442ed7b0144e9c2f950afb471959e3643446c49632bd69e63cbd31b8561/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d3445414132353f7374796c653d666f722d7468652d6261646765266c6f676f3d676e7562617368266c6f676f436f6c6f723d7768697465
+
+J'ai fait mon lycée a Raoul Dautry avec en seconde option DNL histoire géo et SICIT, puis un première avec spécialité mathématiques, informatique et science de l'ingénieur, puis en terminale spécialité mathématiques et informatique.
 Actuellement en BUT1 informaique a limoges je dispose d'un brevet et d'un bac nsi/maths.  
-Je maitrise des outils tels que python, HTML-CSS, Java, C.  
-Suite a mon collège et lycée j'ai aquis la pratique de plusieurs langues tels que le francais, l'anglais et l'espagnol.  
+Je maitrise des outils tels que python, HTML-CSS, Java, C, le réseau.  
+Suite a mon collège et lycée j'ai aquis la pratique de plusieurs langues tels que le francais (natif), l'anglais (B1) et l'espagnol (A2).  
 
 Je suis intéressé par le développement d'application , mais aussi tout ce qui touche au fonctionnement des machines et a la construction d'objets.  
 
-INFJ :)
-
 J'aprécie beaucoup Tetris, Final fantasy, Persona (le 4 surtout), Shin megami tensei, Metroid et Ace Attorney  
-J'aprécie écouter de la musiques nottament de Justice, Avicii, Kavinsky,...
+J'aprécie écouter de la musiques nottament Norman thavaut (assasin des templiers banger, same pour luigi clash mario)...
 
 Vous pouvez me contacter via cette adresse mail noah.germaneau@etu.unilim.fr 
