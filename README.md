@@ -27,18 +27,29 @@ Noté sur 5 ⭐ avec: <br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ⌛ <br>
 
 ### Competences vues en cours:
--> Algorithmie
--> Programmation Orienté Objet
--> Gestion de projets
--> Receuil des besoins
--> Qualité de code
--> Reseau
+- Algorithmie <br>
+- Programmation Orienté Objet <br>
+- Gestion de projets <br>
+- Receuil des besoins <br>
+- Qualité de code <br>
+- Reseau <br>
 
 ### Langues
 - Français 🇫🇷 (natif)  
 - Anglais 🇬🇧 (B1)  
 - Espagnol 🇪🇸 (A2)  
+---
 
+## Projets SAE 
+
+- SAE Algo 
+- SAE BDD
+- SAE Receuil des besoins
+- SAE Gestion de projet
+- SAE Réseau 
+- SAE Latice
+- SAE 
+- SAE
 ---
 
 ## 💡 Centres d’intérêt
