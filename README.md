@@ -10,6 +10,8 @@ Actuellement en **BUT1 informatique à Limoges**, je dispose d'un brevet et d'un
 ## 🛠 Compétences techniques
 
 ### Langages & Outils
+Noté sur 5 ⭐ avec 1⭐ = quelques notions, 2⭐ = appris en cours, 3⭐ = utilisé dans un projet, 4⭐ = utilisé courrament, 5⭐ = très bonne maitrise
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)<br>
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)<br>
