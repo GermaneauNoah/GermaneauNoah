@@ -11,7 +11,7 @@ Actuellement en **BUT1 informatique à Limoges**, je dispose d'un brevet et d'un
 
 ### Langages & Outils
 Noté sur 5 ⭐ avec: <br>
-1⭐ = quelques notions, 2⭐ = appris en cours, 3⭐ = utilisé dans un projet, 4⭐ = utilisé courrament, 5⭐ = très bonne maitrise
+1⭐ = quelques notions, 2⭐ = appris en cours, 3⭐ = utilisé dans un projet, 4⭐ = utilisé courrament, 5⭐ = très bonne maitrise <br>
 ⌛ = en cours d'aprentissage
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ⭐⭐⭐✩✩  <br>
