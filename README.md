@@ -26,6 +26,14 @@ Noté sur 5 ⭐ avec: <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ⌛ <br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ⌛ <br>
 
+### Competences vues en cours:
+-> Algorithmie
+-> Programmation Orienté Objet
+-> Gestion de projets
+-> Receuil des besoins
+-> Qualité de code
+-> Reseau
+
 ### Langues
 - Français 🇫🇷 (natif)  
 - Anglais 🇬🇧 (B1)  
