@@ -10,7 +10,7 @@ Actuellement en **BUT1 informatique à Limoges**, je dispose d'un brevet et d'un
 ## 🛠 Compétences techniques
 
 ### Langages & Outils
-Noté sur 5 ⭐ avec: 
+Noté sur 5 ⭐ avec: <br>
 1⭐ = quelques notions, 2⭐ = appris en cours, 3⭐ = utilisé dans un projet, 4⭐ = utilisé courrament, 5⭐ = très bonne maitrise
 ⌛ = en cours d'aprentissage
 
