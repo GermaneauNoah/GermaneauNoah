@@ -28,7 +28,7 @@ Noté sur 5 ⭐ avec: <br>
 
 ### Competences vues en cours:
 - Algorithmie <br>
-- Programmation Orienté Objet <br>
+- Droit numérique <br>
 - Gestion de projets <br>
 - Receuil des besoins <br>
 - Qualité de code <br>
