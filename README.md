@@ -48,8 +48,6 @@ Noté sur 5 ⭐ avec: <br>
 - SAE Gestion de projet
 - SAE Réseau 
 - SAE Latice
-- SAE 
-- SAE
 ---
 
 ## 💡 Centres d’intérêt
