@@ -1,9 +1,6 @@
 <h1 align="center"> Germaneau Noah </h1>
 
-## Bonjour
-
-J'ai fait mon lycée à Raoul Dautry avec en seconde option DNL histoire-géo et SICIT, puis en première avec spécialité **mathématiques**, **informatique** et **sciences de l'ingénieur**, puis en terminale spécialité **mathématiques** et **informatique**.  
-Actuellement en **BUT1 informatique à Limoges**, je dispose d'un brevet et d'un bac NSI/Maths.  
+Actuellement en **BUT3 informatique à Limoges**, je dispose d'un brevet et d'un bac NSI/Maths.  
 
 ---
 
@@ -41,21 +38,22 @@ Noté sur 5 ⭐ avec: <br>
 ---
 
 ## Projets SAE 
-
-- SAE Algo 
-- SAE BDD
-- SAE Receuil des besoins
-- SAE Gestion de projet
-- SAE Réseau 
-- SAE Latice
+ 
+- SAE Latice : https://github.com/krousseau19/latice
+- SAE Legrand : https://github.com/krousseau19/sae_legrand
+- SAE ERP : https://github.com/SAE-BUT-3-ERP/IUT-Xpress
+  
 ---
 
-## 💡 Centres d’intérêt
+##Centres d’intérêt
 - Développement d’applications  
 - Fonctionnement des machines  
-- Construction d’objets  
+- Lire
+- Jeux vidéos
 
 ---
 
-## 📬 Contact
-Vous pouvez me contacter via : **noah.germaneau@etu.unilim.fr**
+##Lien
+  -Mail: **noah.germaneau@etu.unilim.fr** et **germaneaunoah@gmail.com**
+  -LinkedIn: **https://www.linkedin.com/in/noah-germaneau/** 
+  -Portfolio: **https://germaneaunoah.github.io/Portfolio/**
