@@ -23,37 +23,48 @@ Noté sur 5 ⭐ avec: <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ⭐⭐✩✩✩ <br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ⭐⭐✩✩✩ <br>
 
-### Competences vues en cours:
-- Algorithmie <br>
-- Droit numérique <br>
-- Gestion de projets <br>
-- Receuil des besoins <br>
-- Qualité de code <br>
-- Reseau <br>
-
-### Langues
-- Français 🇫🇷 (natif)  <br>
-- Anglais 🇬🇧 (B1)  <br>
-- Espagnol 🇪🇸 (A2)  <br>
 ---
 
-## Projets SAE 
+### Competences vues en cours:
+- Algorithmie
+- Droit numérique
+- Gestion de projets
+- Receuil des besoins
+- Qualité de code
+- Reseau
+
+---
+
+### Langues
+- Français 🇫🇷 (natif)
+- Anglais 🇬🇧 (B1)
+- Espagnol 🇪🇸 (A2)
+  
+---
+
+## Projets Academiques
  
-- SAE Latice : https://github.com/krousseau19/latice   <br>
-- SAE Legrand : https://github.com/krousseau19/sae_legrand   <br>
-- SAE ERP : https://github.com/SAE-BUT-3-ERP/IUT-Xpress   <br>
+- SAE Latice : https://github.com/krousseau19/latice  
+- SAE Legrand : https://github.com/krousseau19/sae_legrand   
+- SAE ERP : https://github.com/SAE-BUT-3-ERP/IUT-Xpress   
+  
+---
+
+## Projets Personnels
+ 
+- Pages serveur :  
   
 ---
 
 ## Centres d’intérêt
-- Développement d’applications  <br>
-- Fonctionnement des machines  <br>
-- Lire    <br>
-- Jeux vidéos    <br>
+- Développement d’applications 
+- Fonctionnement des machines  
+- Lire    
+- Jeux vidéos    
 
 ---
 
 ## Lien
-  -Mail: **noah.germaneau@etu.unilim.fr** et **germaneaunoah@gmail.com**  <br>
-  -LinkedIn: **https://www.linkedin.com/in/noah-germaneau/**   <br>
-  -Portfolio: **https://germaneaunoah.github.io/Portfolio/**   <br>
+- Mail: **noah.germaneau@etu.unilim.fr** et **germaneaunoah@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/noah-germaneau/**
+- Portfolio: **https://germaneaunoah.github.io/Portfolio/**   
